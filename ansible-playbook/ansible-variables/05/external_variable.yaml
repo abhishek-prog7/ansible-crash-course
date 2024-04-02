@@ -1,0 +1,12 @@
+---
+
+os: windows
+
+system-info:
+  chipset: intel
+  memory: 10
+
+fruits:
+  - apple
+  - banana
+  - orange
